@@ -1,0 +1,31 @@
+    body
+{
+    background-image:url("02.jpg");
+}
+#fin{
+    position:relative;
+    bottom: -4px;
+}
+h1{
+    text-align: center;
+}
+.p3{
+text-shadow: 0px 0px 5px yellow;
+font-size: 50px;
+}
+p{
+    font-family: cursive;
+}
+p{
+    font-size: x-large;
+}
+img{
+    width: 700px;
+    height: 350px;
+}
+input{
+    text-shadow: 0px 0px 5px;
+font-size: 20px;
+position:relative;
+bottom: -120px;
+}
